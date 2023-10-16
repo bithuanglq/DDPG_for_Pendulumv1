@@ -25,3 +25,10 @@ Or Test with visualized result:
 Python tutorial_DDPG.py --train_or_test 0
 ```
 
+# Visualized Result
+One temp image in test phase:
+<p align="center
+  <img src="temp_result.png" width="80%" alt="One screenshot in the test phase">
+</p>
+
+
