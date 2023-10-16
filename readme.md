@@ -11,7 +11,11 @@ git clone _this_repo_
 conda create -n tf_RLcode python=3.10
 pip install -r requirements.txt
 ```
-Then replace tensorlayer package file */path/to/your/anaconda3/envs/tf_RLcode/lib/python3.10/site-packages/tensorlayer/files/utils.py* with *replace_tensorlayer_utils.py*
+Then replace tensorlayer package file 
+
+*/path/to/your/anaconda3/envs/tf_RLcode/lib/python3.10/site-packages/tensorlayer/files/utils.py* 
+
+with *replace_tensorlayer_utils.py*
 
 
 # Step 2
@@ -28,7 +32,7 @@ Python tutorial_DDPG.py --train_or_test 0
 # Visualized Result
 One temp image in test phase:
 <p align="center
-  <img src="temp_result.png" width="80%" alt="One screenshot in the test phase">
+  <img src="temp_result.png" width="50%" alt="One screenshot in the test phase">
 </p>
 
 
