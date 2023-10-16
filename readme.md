@@ -1,4 +1,4 @@
-This repository has been modified based on [RLcode](https://github.com/louisnino/RLcode), where we upgraded Pendulum from v0 to v1. We've also ensured that it now runs smoothly with no bugs, allowing for quick execution.
+This repository has been modified based on [RLcode](https://github.com/louisnino/RLcode), where we upgraded Pendulum from v0 to v1. It's also ensured that it now runs smoothly with no bugs, allowing for quick execution.
 
 
 # My Setup
