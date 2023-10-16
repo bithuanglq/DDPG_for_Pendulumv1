@@ -31,8 +31,8 @@ Python tutorial_DDPG.py --train_or_test 0
 
 # Visualized Result
 One temp image in test phase:
-<p align="center
+</div align="cente">
   <img src="temp_result.png" width="50%" alt="One screenshot in the test phase">
-</p>
+</div>
 
 
