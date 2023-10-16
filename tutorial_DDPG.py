@@ -49,7 +49,7 @@ import tensorflow as tf
 import tensorlayer as tl
 
 parser = argparse.ArgumentParser(description='Train or test neural net motor controller.')
-parser.add_argument('--train', dest='train_or_test', type=int, default=0)
+parser.add_argument('--train_or_test', dest='train_or_test', type=int, default=0)
 args = parser.parse_args()
 # print("train or test: ", args.train_or_test)
 
