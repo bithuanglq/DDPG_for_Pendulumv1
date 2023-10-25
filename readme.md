@@ -2,7 +2,7 @@ This repository has been modified based on [RLcode](https://github.com/louisnino
 
 
 # My Setup
-Ubuntu 20.04 LTS, tensorflow 2, python 3.10
+Ubuntu 20.04 LTS, tensorflow 2.14.0, python 3.10
 
 # Step 1
 Clone this repo, create environments:
