@@ -1,10 +1,10 @@
 This repository has been modified based on [RLcode](https://github.com/louisnino/RLcode), where we upgraded Pendulum from v0 to v1. It's also ensured that it now runs smoothly with no bugs, allowing for quick execution.
 
 
-# My Setup
+## My Setup
 Ubuntu 20.04 LTS, tensorflow 2.14.0, python 3.10
 
-# Step 1
+## Step 1
 Clone this repo, create environments:
 ```
 git clone _this_repo_
@@ -18,7 +18,7 @@ Then replace tensorlayer package file
 with *replace_tensorlayer_utils.py*
 
 
-# Step 2
+## Step 2
 Run in your terminal:
 ```
 python tutorial_DDPG.py --train_or_test 1
@@ -29,7 +29,7 @@ Or Test with visualized result:
 Python tutorial_DDPG.py --train_or_test 0
 ```
 
-# Visualized Result
+## Visualized Result
 One temp image in test phase:
 </div align="cente">
   <img src="temp_result.png" width="50%" alt="One screenshot in the test phase">
